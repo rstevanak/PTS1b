@@ -1,3 +1,2 @@
-Dokumentacia funkcii by mohla byt podla PEP-257, napr. z tohto linku https://www.chromium.org/chromium-os/python-style-guidelines.
+OK
 
-Enkapsulacia hesla.
